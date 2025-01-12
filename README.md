@@ -66,7 +66,7 @@ The task was to build a **responsive user interface (UI)** for a **social cause 
 
 #### **Future Improvements**:
 1. **Interactive Features**:
-   - Add hover effects and animations to buttons and cards for better user interaction.
+   - Add theme mode change light/dark for better user interaction.
 2. **Backend Integration**:
    - Connect the "Get Involved" form to a backend service (e.g., Firebase or a custom API) to store user submissions.
 3. **Dynamic Content**:
