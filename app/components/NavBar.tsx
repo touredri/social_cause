@@ -83,7 +83,7 @@ const NavBar = () => {
         </ul>
       </div>
       <div className="navbar-end">
-        <a className="btn mr-6 hidden xl:flex ">Button</a>
+        <a className="btn mr-6 hidden xl:flex ">Join the Cause</a>
         <ThemeMode />
       </div>
     </div>
