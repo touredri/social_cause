@@ -1,13 +1,13 @@
 ### **Deliverables**:
 1. **Live Vercel URL**:
-   - Social Cause: `https://socialcause.vercel.app`
+   - Social Cause: [`https://socialcause.vercel.app`]
 
 2. **GitHub Repository**:
-   - touredri: `https://github.com/touredri/social_cause`
+   - touredri: [`https://github.com/touredri/social_cause`]
 
 3. **Write-Up**:
    - A short document explaining the approach, decisions, and key features.
-   - Readme: `https://github.com/touredri/social_cause/blob/main/README.md`
+   - Readme: [`https://github.com/touredri/social_cause/blob/main/README.md`]
 
 ---
 
