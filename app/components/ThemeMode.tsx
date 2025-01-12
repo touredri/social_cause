@@ -1,6 +1,20 @@
+'use client';
+
+import { useEffect } from 'react';
+import { themeChange } from 'theme-change';
+
 const ThemeMode = () => {
+  // useEffect(() => {
+  //   themeChange(false);
+
+  // }, []);
+
   return (
-    <label className="swap swap-rotate">
+    <label
+      className="swap swap-rotate"
+      // data-toggle-theme="dark,light"
+      // data-act-class="ACTIVECLASS"
+    >
       {/* this hidden checkbox controls the state */}
       <input type="checkbox" className="theme-controller" value="synthwave" />
 
