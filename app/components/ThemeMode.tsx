@@ -1,7 +1,7 @@
 'use client';
 
-import { useEffect } from 'react';
-import { themeChange } from 'theme-change';
+// import { useEffect } from 'react';
+// import { themeChange } from 'theme-change';
 
 const ThemeMode = () => {
   // useEffect(() => {
